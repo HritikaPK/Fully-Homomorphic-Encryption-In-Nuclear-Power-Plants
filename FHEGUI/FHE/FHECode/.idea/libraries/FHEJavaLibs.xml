@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="FHEJavaLibs">
+    <CLASSES>
+      <root url="file://$USER_HOME$/FHEJavaLibs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/FHEJavaLibs" recursive="false" />
+  </library>
+</component>
